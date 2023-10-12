@@ -1,5 +1,5 @@
 # Data-Mining-Techniques
-A compilation of common data mining techniques extracted from CS393 course of Dickinson College - taught by professor Naderi Dehkordi, Mohammad
+A compilation of common data mining techniques extracted from CS393 course of Dickinson College - under the advise of professor Naderi Dehkordi, Mohammad
 
 # This is a study of data mining techniques.
 
